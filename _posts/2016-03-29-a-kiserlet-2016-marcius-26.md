@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-29T11:33:42.173Z'
-dateModified: '2016-03-29T11:33:41.673Z'
+datePublished: '2016-03-29T11:37:21.112Z'
+dateModified: '2016-03-29T11:36:53.542Z'
 title: A kísérlet - 2016 március 26
 author: []
+sourcePath: _posts/2016-03-29-a-kiserlet-2016-marcius-26.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-29-a-kiserlet-2016-marcius-26.md
-published: true
 url: a-kiserlet-2016-marcius-26/index.html
 _type: Article
 
@@ -36,9 +36,8 @@ Még aznap este, 11 óra felé leültünk a laptop elé, megnyitottuk a google m
 Azonban, ez a terület sokkal nagyobb mint ahogyan a térképen ez látszik. Pontos terv kellett, hogy hova ültetjük az újdonsült fákat. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8daf386a-8fb0-463b-8727-14d7ac628947.png)
 
 Rövid idő után, úgy döntöttünk, hogy a fenti képen látható 6 kis pontot fogjuk megcélozni a fák elültetésére és neki is indultunk az éjszakának egy ásóval, egy vödörrel és a 6 kis fával. 
-> 
-> "Érdekesen nézhetett ki két srác amint egy ásóval és egy vödörrel mászkáltak a sötétben hajnal 2 órakkor" :) 
 
+_"Érdekesen nézhetett ki két srác amint egy ásóval és egy vödörrel mászkáltak a sötétben hajnal 2 órakkor" :) _
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a985d16-5208-4f21-9576-3ca813e277af.png)
 
 A fenti képen látható elrendezés lett a végkimenetele az ültetés projektnek. A sínes pontok jelölik a külonböző fákat a következő lebontásban:
