@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Gerilla kertészkedési karrierünk kezdete.
-datePublished: '2016-03-29T12:06:50.700Z'
-dateModified: '2016-03-29T12:03:50.080Z'
-title: A kísérlet - 2016 március 26
+description: Gerilla kertészkedési karrierünk kezdete - 2016 március 26
+datePublished: '2016-03-29T12:31:08.261Z'
+dateModified: '2016-03-29T12:30:45.495Z'
+title: A kísérlet
 author: []
 sourcePath: _posts/2016-03-29-a-kiserlet-2016-marcius-26.md
 published: true
@@ -22,7 +22,7 @@ url: a-kiserlet-2016-marcius-26/index.html
 _type: Article
 
 ---
-# A kísérlet - 2016 március 26
+# A kísérlet
 
 **Egy régen született ötlet megvalósulása**
 
