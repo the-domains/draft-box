@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-29T11:37:21.112Z'
-dateModified: '2016-03-29T11:36:53.542Z'
+description: Gerilla kertészkedési karrierünk kezdete.
+datePublished: '2016-03-29T11:41:16.355Z'
+dateModified: '2016-03-29T11:40:41.473Z'
 title: A kísérlet - 2016 március 26
 author: []
 sourcePath: _posts/2016-03-29-a-kiserlet-2016-marcius-26.md
@@ -42,10 +42,14 @@ _"Érdekesen nézhetett ki két srác amint egy ásóval és egy vödörrel más
 
 A fenti képen látható elrendezés lett a végkimenetele az ültetés projektnek. A sínes pontok jelölik a külonböző fákat a következő lebontásban:
 
-* Piros: Cseresznye
-* Sárga : Körte
-* Zöld: Alma
-* Narancssárga: Barack
-* Lila: Szilva
+Piros: Cseresznye
+
+Sárga : Körte
+
+Zöld: Alma
+
+Narancssárga: Barack
+
+Lila: Szilva
 
 Nagyon reméljük, hogy sok embernek szereztünk örömet ezzel a mozzanatunkkal. Nekünk nagyon jó érzéssel töltötte meg a lelkünket a project. Mindenkinek csak ajánlani tudjuk, hogy ültessetek ti is fát (vagy bármi mást)!
