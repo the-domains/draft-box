@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Gerilla kertészkedési karrierünk kezdete - 2016 március 26
-datePublished: '2016-03-29T12:31:08.261Z'
-dateModified: '2016-03-29T12:30:45.495Z'
+datePublished: '2016-03-29T14:45:56.099Z'
+dateModified: '2016-03-29T14:45:44.179Z'
 title: A kísérlet
 author: []
 sourcePath: _posts/2016-03-29-a-kiserlet-2016-marcius-26.md
